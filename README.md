@@ -1,1 +1,10 @@
-Hey! I'm \_nebula, a C# programmer with heavy experience with Unity. I've worked on many mods for Outer Wilds, and was part of the team creating the Mod Loader. My biggest project has been QSB, the multiplayer mod for Outer Wilds.
+Hey! I'm \_nebula, a software engineer with a lot of experience in C# and Unity. I also do a lot of reverse engineering.
+
+Known Languages:
+- C#
+- Java
+- HTML/CSS
+- Javascript
+- SQL
+- PHP (a bit)
+- C/C++ (a bit)
